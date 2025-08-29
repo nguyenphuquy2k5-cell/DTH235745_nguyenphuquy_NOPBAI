@@ -1,2 +1,2 @@
 import math_libs
-math_libs.add(4, 5)
+print(math_libs.add(4, 5))
