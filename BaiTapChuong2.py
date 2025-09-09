@@ -12,6 +12,7 @@ try:
         print(f"Diện tích hình tròn: {dt}")
 except :
     print("Nhập sai dữ liệu")
+    
 #Câu2
 try:
     second = int(input("Nhập số giây: "))
@@ -25,6 +26,7 @@ try:
         print(hour,":",minute,":",second)
 except:
     print("Nhập sai dữ liệu")
+    
 #Câu3
 try:
     diem1 = float(input("Nhập điểm môn thứ nhất: "))
@@ -37,6 +39,7 @@ try:
         print("Điểm phải nằm trong khoảng từ 0 đến 10.")
 except:
     print("Nhập sai dữ liệu")
+    
 #Câu4
 #Python hỗ trợ các kiểu dữ liệu cơ bản sau:
 #int: Số nguyên (ví dụ: 1, -5, 100)
@@ -59,6 +62,7 @@ nhiều dòng
 Ghi chú nhiều dòng
 bằng dấu nháy kép
 """
+
 # Câu6
 #/ : Chia thực
 #// : Chia lấy phần nguyên 
@@ -133,6 +137,7 @@ finally:
 #except: Xử lý lỗi nếu xảy ra.
 #else: Thực hiện khi không có lỗi.
 #finally: Luôn thực hiện, dù có lỗi hay không.
+
 #Câu9
 #(a) i1 + (i2 * i3)
 #= 2 + (5 * -3) = 2 + (-15) = -13
