@@ -37,7 +37,9 @@ try:
         print("Điểm phải nằm trong khoảng từ 0 đến 10.")
 except:
     print("Nhập sai dữ liệu")
+
 #Câu4
+
 #Python hỗ trợ các kiểu dữ liệu cơ bản sau:
 #int: Số nguyên (ví dụ: 1, -5, 100)
 #float: Số thực (ví dụ: 3.14, -2.5)
@@ -49,6 +51,7 @@ except:
 #set: Tập hợp (ví dụ: {1, 2, 3})
 
 #Câu5
+
 # Còn lệnh # dùng để ghi chú  1 dòng
 '''
 Đây là ghi chú
@@ -132,7 +135,9 @@ finally:
 #try: Đặt các lệnh có thể gây lỗi.
 #except: Xử lý lỗi nếu xảy ra.
 #else: Thực hiện khi không có lỗi.
-#finally: Luôn thực hiện, dù có lỗi hay không.
+#finally: Luôn thực hiện, dù có lỗi hay không.\
+
+
 #Câu9
 #(a) i1 + (i2 * i3)
 #= 2 + (5 * -3) = 2 + (-15) = -13
